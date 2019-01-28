@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Welcome to Automation </h1>
-<h2>This is Gartner-CEB</h2>
+<h2>This is Gartner-CEBNEW</h2>
 </body>
 </html>
